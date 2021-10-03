@@ -2,9 +2,6 @@
 .project
 *.iml
 .idea/
-/target/
 /.settings/
 /test-results/
 /test-output/
-/lib
-/target/
